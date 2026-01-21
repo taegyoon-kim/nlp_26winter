@@ -14,7 +14,7 @@
 
 ## Overview
 
-This workshop, titled "Text-as-Data/NLP", introduces political science students to a key subset of essential concepts and techniques in text-as-data and NLP.  
+This workshop introduces political science students to a key subset of essential concepts and techniques in text-as-data and NLP.  
 - The workshop will blend theoretical understanding with practical, hands-on experience.
 - The workshop consists of two lectures (2 hours each). 
 - The first lecture will focus on pre-processing and representing texts, covering text normalization, vector semantics models, static and contextual word embeddings, and similarity measures.
@@ -43,16 +43,15 @@ The workshop will invovle guided coding (or tutorials) using Python and Google C
   - [GRS] Sections 3.1 and 3.2 in Chp. 3 "Principles of Selection and Representation."
   - [GRS] Chp. 4 "Selecting Documents."
 - Clening and representing texts
-  - [JM] Sections 2.1 and 2.2 in Chp. 2 "Regular Expressions, Text Normalization, Edit Distance"
-  - [JM] Chp. 6 ``Vector Semantics and Embeddings" 
   - [GRS] Chp. 5 "Bag of Words."
   - [GRS] Chp. 7 "The Vector Space Model and Similarity Metrics."
+  - [JM] Sections 2.1 and 2.2 in Chp. 2 "Regular Expressions, Text Normalization, Edit Distance"
+  - [JM] Chp. 6 ``Vector Semantics and Embeddings" 
   - Denny, M.J. and Spirling, A., 2018. Text preprocessing for unsupervised learning: Why it matters, when it misleads, and what to do about it. Political Analysis, 26(2), pp.168-189.
 - Static word embeddings 
   - [GRS] Chp. 8 "Distributed Representations of Words"
-  - Rodriguez, P.L. and Spirling, A., 2022. Word embeddings: What works, what doesn’t, and how to tell the difference for applied research. The Journal of Politics, 84(1), pp.101-115.
-  - Kozlowski, A.C., Taddy, M. and Evans, J.A., 2019. The geometry of culture: Analyzing the meanings of class through word embeddings. American Sociological Review, 84(5), pp.905-949.
   - Osnabrügge, M., Hobolt, S.B. and Rodon, T., 2021. Playing to the gallery: Emotive rhetoric in parliaments. American Political Science Review, 115(3), pp.885-899.
+  - Kozlowski, A.C., Taddy, M. and Evans, J.A., 2019. The geometry of culture: Analyzing the meanings of class through word embeddings. American Sociological Review, 84(5), pp.905-949.
   - Garten, J., Hoover, J., Johnson, K.M., Boghrati, R., Iskiwitch, C. and Dehghani, M., 2018. Dictionaries and distributions: Combining expert knowledge and large scale textual data content analysis: Distributed dictionary representation. Behavior research methods, 50, pp.344-361.
 - Contextual word embeddings 
   - Smith, N.A., 2019. Contextual word representations: A contextual introduction. arXiv preprint arXiv:1902.06006.
@@ -81,10 +80,6 @@ The workshop will invovle guided coding (or tutorials) using Python and Google C
   - [AG] Chp. 3 "Looking Inside Large Language Models"
   - [AG] Chp. 6 "Prompt Engineering"
   - [AG] Chp. 12 "Fine-tuning Generation Models"
-  - Törnberg, P. (2023). How to use Large Language Models for Text Analysis. arXiv preprint arXiv:2307.13106.
   - Törnberg, P. (2024). Best practices for text annotation with large language models. arXiv preprint arXiv:2402.05129.
-  - Ornstein, J. T., Blasingame, E. N., & Truscott, J. S. (2023). How to train your stochastic parrot: Large language models for political texts. Political Science Research and Methods, 1-18.
   - Wei, J., Wang, X., Schuurmans, D., Bosma, M., Xia, F., Chi, E., ... & Zhou, D. (2022). Chain-of-thought prompting elicits reasoning in large language models. Advances in neural information processing systems, 35, 24824-24837.
-  - Wang, X., Wei, J., Schuurmans, D., Le, Q., Chi, E., Narang, S., ... & Zhou, D. (2022). Self-consistency improves chain of thought reasoning in language models. arXiv preprint arXiv:2203.11171.
-
 
