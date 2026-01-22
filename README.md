@@ -2,7 +2,7 @@
 
 ## Time and location
 
-- Time: 1--3:00pm (Lecture 1) & 3:30--5:30pm (Lecture 2), January 22
+- Time: 1:00-3:00pm (Lecture 1) & 3:30-5:30pm (Lecture 2), January 22
 - Location: 145, Anam-ro, Seongbuk-gu, Seoul, Korea (고려대학교 상남정경관 113호)
 
 
